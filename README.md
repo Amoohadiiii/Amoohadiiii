@@ -1,7 +1,7 @@
-- 👋 Hi, I’m hadi 29, a newbie developer from iran who live in taipei - taiwan right now 
-- 👀 I’m generally interested in building and designing websites, webapps, mobileapps and ... but i think i'll focus on one of them in near future !
-- 🌱 JavaScript + HTML5 + CSS3 + React + Redux + hooks and ...
-- 💞️ I’m looking to collaborate on anything related to frontend development .
+- 👋 Hi, I’m hadi 29, a junior Front-End developer from Iran who live in Taipei - Taiwan right now 
+- 👀 I’m interested in creating and designing websites, webapps, mobileapps and ...
+- 🌱 JavaScript + HTML5 + CSS3 + React + Redux + React Router + hooks
+- 💞️ I’m looking to collaborate on anything related to Front-End development 
 - 📫 you can reach me in any social medias such as insta/fb/github/linkedin/twitter and so on ... simply by using this id : @Amoohadiiii
 
 <!---
