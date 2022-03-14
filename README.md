@@ -1,7 +1,7 @@
-- 👋 Hi, I’m hadi 29, a junior Full-Stack Developer from Iran who lives in Taipei - Taiwan right now 
+- 👋 Hi, I’m hadi 30, a junior Developer from Iran who lives in Amsterdam - Netherlands right now 
 - 👀 I’m interested in coding and development
-- 🌱 JavaScript + HTML5 + CSS3 + SCSS + React + Redux + Redux-saga + hooks + Context API + Node.js + Express + MongoDB + Mongoose + FireBase + Stripe payment + Testing + TDD and ...
-- 💞️ I’m looking to collaborate on anything related to Full Stack Development 
+- 🌱 JavaScript + HTML5 + CSS3 + SCSS + React + Redux + Redux-saga + hooks + Context API + Node.js + Express + MongoDB + Mongoose + FireBase + Stripe payment
+- 💞️ I’m looking to collaborate on anything related to Website/Web App/Game Development 
 - 📫 you can reach me in any social medias such as insta/github/linkedin/twitter simply by using this id : @Amoohadiiii
 
 <!---
